@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahil_saxenadx7" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_saxenadx7?logo=twitter&style=for-the-badge" alt="sahil_saxenadx7" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **DevOps, Cloud**
 
